@@ -39,6 +39,12 @@ The result is a scored, explainable shortlist — not just a list of similar doc
 
 ---
 
+## Architecture
+
+![CV Matcher — RAG Pipeline Architecture](docs/architecture.png)
+
+---
+
 ## How It Works
 
 ```
