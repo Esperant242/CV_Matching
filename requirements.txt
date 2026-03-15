@@ -1,0 +1,20 @@
+# Core RAG
+langchain==0.3.14
+langchain-openai==0.3.1
+langchain-community==0.3.14
+langchain-core==0.3.63
+langchain-text-splitters==0.3.8
+faiss-cpu==1.9.0
+openai==1.59.6
+tiktoken==0.8.0
+
+# Data
+pandas==2.2.3
+numpy==2.4.3
+
+# UI
+streamlit==1.55.0
+
+# Utils
+python-dotenv==1.0.1
+pydantic==2.12.5

@@ -1,0 +1,29 @@
+# Secrets
+.env
+*.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Data (large files, not versionned)
+data/processed/
+data/raw/
+
+# FAISS index (stored on D:)
+*.faiss
+*.pkl
+
+# IDE / OS
+.claude/
+.DS_Store
+Thumbs.db
